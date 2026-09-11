@@ -1,52 +1,52 @@
 # lore
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Lore is a next-generation, open source version control system
 
-![lore](https://repo.x-cmd.io/lore.svg)
+![lore](https://repo.x-cmd.io/lore.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install lore
 ```
 
-## Code insight
+## 代码洞察
 
-Total: **435,289** lines of code across **1043** files in the top 5 languages.
+合计: **435,289** 行代码（覆盖前 5 种语言、共 **1043** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Rust | 371,210 | 13,524 | 41,970 | 888 |
 | Python | 49,082 | 4,587 | 11,056 | 107 |
 | CHeader | 4,092 | 7,867 | 865 | 3 |
 | C | 3,082 | 512 | 335 | 3 |
 | Toml | 2,356 | 668 | 354 | 42 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/EpicGames/lore>
-- **Homepage**: <https://lore.org>
-- **License**: MIT
+- **上游仓库**: <https://github.com/EpicGames/lore>
+- **官网**: <https://lore.org>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `v0.9.0` (2026-08-31)
-- **Last commit**: 2026-09-10
-- **Assets in release**: 17
+- **最新版本**: `v0.9.0` (2026-08-31)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 17 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 8,592 · **Forks**: 425 · **Open issues**: 102 · **Contributors**: 29
+- **Star**: 8,592 · **Fork**: 425 · **开放 issue**: 102 · **贡献者**: 29
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 5 · **Merged PRs**: 0 · **Open PRs**: 39 · **Closed issues**: 30 · **Open issues**: 72 · **Commits**: 506
+- **发布数**: 5 · **已合并 PR**: 0 · **开放 PR**: 39 · **已关闭 issue**: 30 · **开放 issue**: 72 · **提交数**: 506
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-12 | 1 | 0 | 14 | 2 | 12 | 222 |
 | last60d | 2026-07-13 | 3 | 0 | 19 | 4 | 36 | 329 |
@@ -55,10 +55,10 @@ Total: **435,289** lines of code across **1043** files in the top 5 languages.
 | 360d | 2025-09-16 | 5 | 0 | 39 | 30 | 72 | 506 |
 | last720d | 2024-09-21 | 5 | 0 | 39 | 30 | 72 | 506 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [liblore-v0.9.0-aarch64-apple-darwin.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.9.0/liblore-v0.9.0-aarch64-apple-darwin.tar.gz) | 13.6 MiB | `native/darwin/arm64` |
 | [liblore-v0.9.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.9.0/liblore-v0.9.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz) | 11.8 MiB | `native/linux/arm64/glibc` |
 | [liblore-v0.9.0-x86_64-pc-windows-msvc.zip](https://github.com/EpicGames/lore/releases/download/v0.9.0/liblore-v0.9.0-x86_64-pc-windows-msvc.zip) | 11.5 MiB | `native/win/x64` |
@@ -77,13 +77,13 @@ Total: **435,289** lines of code across **1043** files in the top 5 languages.
 | [loreserver-v0.9.0-x86_64-pc-windows-msvc.zip](https://github.com/EpicGames/lore/releases/download/v0.9.0/loreserver-v0.9.0-x86_64-pc-windows-msvc.zip) | 14.5 MiB | `native/win/x64` |
 | [loreserver-v0.9.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.9.0/loreserver-v0.9.0-x86_64-unknown-linux-gnu.tar.gz) | 15.7 MiB | `native/linux/x64/glibc` |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for lore lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lore` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+lore 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `lore` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/lore.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/lore.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T03:41:50Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T03:41:51Z._
