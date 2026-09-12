@@ -1,0 +1,192 @@
+about:
+  description: "Lore is a next-generation, open source version control system"
+  license: MIT
+  homepage: https://lore.org
+  head: ff6912a
+  archived: false
+  latestVersion: "v0.9.0"
+  latestRelease: "v0.9.0"
+  latestPrerelease: ""
+  collectedAt: 2026-09-12T06:24:35Z
+timeline:
+  created: 2026-05-21
+  lastCommit: 2026-09-11
+  lastVersion: 2026-08-31
+  lastRelease: 2026-08-31
+  lastPrerelease: 
+popularity:
+  star: 8595
+  watcher: 37
+  fork: 425
+  release: 5
+  contributor: 29
+  pullRequest: 98
+  issue: 103
+language:
+  Rust: 15941917
+  Python: 2361048
+  C: 619540
+  HCL: 45024
+  Shell: 41626
+  PowerShell: 13018
+  Dockerfile: 2519
+  Handlebars: 403
+totalBytes: 19025095
+recent:
+  last30d:
+    since: 2026-08-13
+    release: 1
+    mergedPR: 0
+    openPR: 13
+    closedIssue: 2
+    openIssue: 13
+    commit: 232
+  last60d:
+    since: 2026-07-14
+    release: 3
+    mergedPR: 0
+    openPR: 18
+    closedIssue: 4
+    openIssue: 36
+    commit: 339
+  last90d:
+    since: 2026-06-14
+    release: 5
+    mergedPR: 0
+    openPR: 38
+    closedIssue: 30
+    openIssue: 73
+    commit: 422
+  last180d:
+    since: 2026-03-16
+    release: 5
+    mergedPR: 0
+    openPR: 38
+    closedIssue: 30
+    openIssue: 73
+    commit: 516
+  last360d:
+    since: 2025-09-17
+    release: 5
+    mergedPR: 0
+    openPR: 38
+    closedIssue: 30
+    openIssue: 73
+    commit: 516
+  last720d:
+    since: 2024-09-22
+    release: 5
+    mergedPR: 0
+    openPR: 38
+    closedIssue: 30
+    openIssue: 73
+    commit: 516
+total:
+  release: 5
+  mergedPR: 0
+  openPR: 38
+  closedIssue: 30
+  openIssue: 73
+  commit: 516
+---
+path: /home/runner/.x-repo/github.com/EpicGames/lore
+collectedAt: 2026-09-12T06:24:40Z
+loc:
+  Rust:
+    code: 372316
+    comments: 13593
+    blanks: 42094
+    files: 890
+  Python:
+    code: 49262
+    comments: 4618
+    blanks: 11097
+    files: 107
+  CHeader:
+    code: 4098
+    comments: 7876
+    blanks: 866
+    files: 3
+  C:
+    code: 3082
+    comments: 512
+    blanks: 335
+    files: 3
+  Toml:
+    code: 2357
+    comments: 668
+    blanks: 354
+    files: 42
+  Yaml:
+    code: 1572
+    comments: 122
+    blanks: 40
+    files: 64
+  Protobuf:
+    code: 1349
+    comments: 677
+    blanks: 323
+    files: 21
+  Hcl:
+    code: 1013
+    comments: 143
+    blanks: 222
+    files: 10
+  Sh:
+    code: 693
+    comments: 197
+    blanks: 133
+    files: 8
+  Css:
+    code: 476
+    comments: 113
+    blanks: 65
+    files: 1
+  PowerShell:
+    code: 220
+    comments: 47
+    blanks: 22
+    files: 1
+  Dockerfile:
+    code: 47
+    comments: 6
+    blanks: 22
+    files: 2
+  Svg:
+    code: 32
+    comments: 0
+    blanks: 0
+    files: 6
+  Json:
+    code: 28
+    comments: 0
+    blanks: 0
+    files: 3
+  Pan:
+    code: 27
+    comments: 6
+    blanks: 5
+    files: 1
+  Handlebars:
+    code: 10
+    comments: 1
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 15977
+    blanks: 6912
+    files: 96
+  Text:
+    code: 0
+    comments: 125
+    blanks: 7
+    files: 1
+total:
+  code: 437343
+  comments: 79708
+  blanks: 68054
+  files: 1260
+---
+
+---
