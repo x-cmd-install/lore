@@ -4,7 +4,7 @@
 
 Lore is a next-generation, open source version control system
 
-[![x-cmd/install — lore Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lore.svg)](https://x-cmd.com/install/lore)
+[![x-cmd/install — lore Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lore.svg)](https://x-cmd.com/install/lore)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install lore
 
 ## Code insight
 
-Total: **460,663** lines of code across **1076** files in the top 5 languages.
+Total: **463,391** lines of code across **1078** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 392,595 | 14,003 | 44,666 | 913 |
-| Python | 53,005 | 4,868 | 11,807 | 115 |
+| Rust | 394,764 | 14,015 | 44,881 | 915 |
+| Python | 53,564 | 4,901 | 11,956 | 115 |
 | CHeader | 4,133 | 8,040 | 876 | 3 |
 | C | 3,082 | 512 | 335 | 3 |
 | Toml | 2,375 | 675 | 355 | 42 |
@@ -33,27 +33,27 @@ Total: **460,663** lines of code across **1076** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.0` (2026-09-18)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 8,776 · **Forks**: 436 · **Open issues**: 116 · **Contributors**: 30
+- **Stars**: 8,793 · **Forks**: 437 · **Open issues**: 117 · **Contributors**: 30
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 0 · **Open PRs**: 39 · **Closed issues**: 46 · **Open issues**: 70 · **Commits**: 598
+- **Releases**: 6 · **Merged PRs**: 0 · **Open PRs**: 38 · **Closed issues**: 46 · **Open issues**: 71 · **Commits**: 608
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 0 | 15 | 2 | 24 | 191 |
-| last60d | 2026-07-24 | 3 | 0 | 19 | 5 | 31 | 384 |
-| 90d | 2026-06-24 | 5 | 0 | 27 | 27 | 54 | 428 |
-| last180d | 2026-03-26 | 6 | 0 | 39 | 46 | 70 | 597 |
-| 360d | 2025-09-27 | 6 | 0 | 39 | 46 | 70 | 597 |
-| last720d | 2024-10-02 | 6 | 0 | 39 | 46 | 70 | 598 |
+| 30d | 2026-08-24 | 2 | 0 | 15 | 2 | 25 | 201 |
+| last60d | 2026-07-25 | 3 | 0 | 19 | 5 | 32 | 394 |
+| 90d | 2026-06-25 | 5 | 0 | 25 | 24 | 55 | 438 |
+| last180d | 2026-03-27 | 6 | 0 | 38 | 46 | 71 | 607 |
+| 360d | 2025-09-28 | 6 | 0 | 38 | 46 | 71 | 607 |
+| last720d | 2024-10-03 | 6 | 0 | 38 | 46 | 71 | 608 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for lore lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:46:45Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:49:23Z._
