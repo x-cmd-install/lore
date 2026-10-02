@@ -14,11 +14,11 @@ x install lore
 
 ## Code insight
 
-Total: **473,661** lines of code across **1135** files in the top 5 languages.
+Total: **473,854** lines of code across **1135** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 400,703 | 14,014 | 45,490 | 926 |
+| Rust | 400,896 | 14,001 | 45,495 | 926 |
 | Python | 55,268 | 4,926 | 12,272 | 119 |
 | CHeader | 4,193 | 8,361 | 894 | 3 |
 | C | 3,113 | 516 | 338 | 3 |
@@ -38,22 +38,22 @@ Total: **473,661** lines of code across **1135** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,848 · **Forks**: 444 · **Open issues**: 118 · **Contributors**: 30
+- **Stars**: 8,856 · **Forks**: 444 · **Open issues**: 119 · **Contributors**: 30
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 0 · **Open PRs**: 39 · **Closed issues**: 46 · **Open issues**: 72 · **Commits**: 672
+- **Releases**: 6 · **Merged PRs**: 0 · **Open PRs**: 42 · **Closed issues**: 46 · **Open issues**: 73 · **Commits**: 676
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 1 | 0 | 14 | 1 | 25 | 210 |
-| last60d | 2026-08-02 | 2 | 0 | 18 | 4 | 31 | 432 |
-| 90d | 2026-07-03 | 4 | 0 | 23 | 12 | 50 | 502 |
-| last180d | 2026-04-04 | 6 | 0 | 39 | 46 | 72 | 671 |
-| 360d | 2025-10-06 | 6 | 0 | 39 | 46 | 72 | 671 |
-| last720d | 2024-10-11 | 6 | 0 | 39 | 46 | 72 | 672 |
+| 30d | 2026-09-02 | 1 | 0 | 15 | 1 | 25 | 214 |
+| last60d | 2026-08-03 | 2 | 0 | 21 | 4 | 32 | 436 |
+| 90d | 2026-07-04 | 4 | 0 | 26 | 12 | 49 | 506 |
+| last180d | 2026-04-05 | 6 | 0 | 42 | 46 | 73 | 675 |
+| 360d | 2025-10-07 | 6 | 0 | 42 | 46 | 73 | 675 |
+| last720d | 2024-10-12 | 6 | 0 | 42 | 46 | 73 | 676 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for lore lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T07:41:52Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T07:29:11Z._
