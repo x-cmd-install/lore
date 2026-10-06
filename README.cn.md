@@ -14,11 +14,11 @@ x install lore
 
 ## 代码洞察
 
-合计: **474,764** 行代码（覆盖前 5 种语言、共 **1513** 个文件）。
+合计: **475,348** 行代码（覆盖前 5 种语言、共 **1514** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 401,760 | 14,763 | 45,343 | 1304 |
+| Rust | 402,342 | 14,780 | 45,391 | 1305 |
 | Python | 55,268 | 4,926 | 12,272 | 119 |
 | CHeader | 4,193 | 8,361 | 894 | 3 |
 | C | 3,113 | 516 | 338 | 3 |
@@ -32,50 +32,50 @@ x install lore
 
 ## 发布
 
-- **最新版本**: `v0.10.0` (2026-09-18)
-- **最近提交**: 2026-10-03
+- **最新版本**: `v0.10.1` (2026-10-06)
+- **最近提交**: 2026-10-05
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 8,872 · **Fork**: 446 · **开放 issue**: 120 · **贡献者**: 30
+- **Star**: 8,873 · **Fork**: 450 · **开放 issue**: 121 · **贡献者**: 30
 
 ## 累计统计
 
-- **发布数**: 6 · **已合并 PR**: 0 · **开放 PR**: 42 · **已关闭 issue**: 46 · **开放 issue**: 74 · **提交数**: 688
+- **发布数**: 7 · **已合并 PR**: 0 · **开放 PR**: 40 · **已关闭 issue**: 46 · **开放 issue**: 75 · **提交数**: 694
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 0 | 14 | 1 | 23 | 181 |
-| last60d | 2026-08-06 | 2 | 0 | 21 | 3 | 31 | 409 |
-| 90d | 2026-07-07 | 4 | 0 | 26 | 12 | 50 | 517 |
-| last180d | 2026-04-08 | 6 | 0 | 42 | 46 | 74 | 687 |
-| 360d | 2025-10-10 | 6 | 0 | 42 | 46 | 74 | 687 |
-| last720d | 2024-10-15 | 6 | 0 | 42 | 46 | 74 | 688 |
+| 30d | 2026-09-06 | 2 | 0 | 12 | 1 | 21 | 187 |
+| last60d | 2026-08-07 | 3 | 0 | 19 | 3 | 31 | 415 |
+| 90d | 2026-07-08 | 5 | 0 | 24 | 12 | 51 | 523 |
+| last180d | 2026-04-09 | 7 | 0 | 40 | 46 | 75 | 693 |
+| 360d | 2025-10-11 | 7 | 0 | 40 | 46 | 75 | 693 |
+| last720d | 2024-10-16 | 7 | 0 | 40 | 46 | 75 | 694 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [liblore-v0.10.0-aarch64-apple-darwin.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.0/liblore-v0.10.0-aarch64-apple-darwin.tar.gz) | 14.3 MiB | `native/darwin/arm64` |
-| [liblore-v0.10.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.0/liblore-v0.10.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz) | 12.6 MiB | `native/linux/arm64/glibc` |
-| [liblore-v0.10.0-x86_64-pc-windows-msvc.zip](https://github.com/EpicGames/lore/releases/download/v0.10.0/liblore-v0.10.0-x86_64-pc-windows-msvc.zip) | 12.1 MiB | `native/win/x64` |
-| [liblore-v0.10.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.0/liblore-v0.10.0-x86_64-unknown-linux-gnu.tar.gz) | 13.2 MiB | `native/linux/x64/glibc` |
-| [lore-debug-v0.10.0-aarch64-apple-darwin.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.0/lore-debug-v0.10.0-aarch64-apple-darwin.tar.gz) | 387.3 MiB | `native/darwin/arm64` |
-| [lore-debug-v0.10.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.0/lore-debug-v0.10.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz) | 350.0 MiB | `native/linux/arm64/glibc` |
-| [lore-debug-v0.10.0-x86_64-pc-windows-msvc.zip](https://github.com/EpicGames/lore/releases/download/v0.10.0/lore-debug-v0.10.0-x86_64-pc-windows-msvc.zip) | 301.0 MiB | `native/win/x64` |
-| [lore-debug-v0.10.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.0/lore-debug-v0.10.0-x86_64-unknown-linux-gnu.tar.gz) | 369.8 MiB | `native/linux/x64/glibc` |
-| [lore-setup-v0.10.0-x86_64-pc-windows-msvc.msi](https://github.com/EpicGames/lore/releases/download/v0.10.0/lore-setup-v0.10.0-x86_64-pc-windows-msvc.msi) | 13.1 MiB | `native/win/x64` |
-| [lore-v0.10.0-aarch64-apple-darwin.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.0/lore-v0.10.0-aarch64-apple-darwin.tar.gz) | 15.0 MiB | `native/darwin/arm64` |
-| [lore-v0.10.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.0/lore-v0.10.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz) | 14.3 MiB | `native/linux/arm64/glibc` |
-| [lore-v0.10.0-x86_64-pc-windows-msvc.zip](https://github.com/EpicGames/lore/releases/download/v0.10.0/lore-v0.10.0-x86_64-pc-windows-msvc.zip) | 14.9 MiB | `native/win/x64` |
-| [lore-v0.10.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.0/lore-v0.10.0-x86_64-unknown-linux-gnu.tar.gz) | 16.0 MiB | `native/linux/x64/glibc` |
-| [loreserver-v0.10.0-aarch64-apple-darwin.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.0/loreserver-v0.10.0-aarch64-apple-darwin.tar.gz) | 14.6 MiB | `native/darwin/arm64` |
-| [loreserver-v0.10.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.0/loreserver-v0.10.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz) | 13.7 MiB | `native/linux/arm64/glibc` |
-| [loreserver-v0.10.0-x86_64-pc-windows-msvc.zip](https://github.com/EpicGames/lore/releases/download/v0.10.0/loreserver-v0.10.0-x86_64-pc-windows-msvc.zip) | 14.8 MiB | `native/win/x64` |
-| [loreserver-v0.10.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.0/loreserver-v0.10.0-x86_64-unknown-linux-gnu.tar.gz) | 15.9 MiB | `native/linux/x64/glibc` |
+| [liblore-v0.10.1-aarch64-apple-darwin.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.1/liblore-v0.10.1-aarch64-apple-darwin.tar.gz) | 13.6 MiB | `native/darwin/arm64` |
+| [liblore-v0.10.1-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.1/liblore-v0.10.1-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz) | 12.9 MiB | `native/linux/arm64/glibc` |
+| [liblore-v0.10.1-x86_64-pc-windows-msvc.zip](https://github.com/EpicGames/lore/releases/download/v0.10.1/liblore-v0.10.1-x86_64-pc-windows-msvc.zip) | 13.6 MiB | `native/win/x64` |
+| [liblore-v0.10.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.1/liblore-v0.10.1-x86_64-unknown-linux-gnu.tar.gz) | 14.6 MiB | `native/linux/x64/glibc` |
+| [lore-debug-v0.10.1-aarch64-apple-darwin.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.1/lore-debug-v0.10.1-aarch64-apple-darwin.tar.gz) | 363.2 MiB | `native/darwin/arm64` |
+| [lore-debug-v0.10.1-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.1/lore-debug-v0.10.1-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz) | 270.8 MiB | `native/linux/arm64/glibc` |
+| [lore-debug-v0.10.1-x86_64-pc-windows-msvc.zip](https://github.com/EpicGames/lore/releases/download/v0.10.1/lore-debug-v0.10.1-x86_64-pc-windows-msvc.zip) | 269.6 MiB | `native/win/x64` |
+| [lore-debug-v0.10.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.1/lore-debug-v0.10.1-x86_64-unknown-linux-gnu.tar.gz) | 285.5 MiB | `native/linux/x64/glibc` |
+| [lore-setup-v0.10.1-x86_64-pc-windows-msvc.msi](https://github.com/EpicGames/lore/releases/download/v0.10.1/lore-setup-v0.10.1-x86_64-pc-windows-msvc.msi) | 13.5 MiB | `native/win/x64` |
+| [lore-v0.10.1-aarch64-apple-darwin.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.1/lore-v0.10.1-aarch64-apple-darwin.tar.gz) | 15.0 MiB | `native/darwin/arm64` |
+| [lore-v0.10.1-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.1/lore-v0.10.1-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz) | 14.3 MiB | `native/linux/arm64/glibc` |
+| [lore-v0.10.1-x86_64-pc-windows-msvc.zip](https://github.com/EpicGames/lore/releases/download/v0.10.1/lore-v0.10.1-x86_64-pc-windows-msvc.zip) | 15.0 MiB | `native/win/x64` |
+| [lore-v0.10.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.1/lore-v0.10.1-x86_64-unknown-linux-gnu.tar.gz) | 16.0 MiB | `native/linux/x64/glibc` |
+| [loreserver-v0.10.1-aarch64-apple-darwin.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.1/loreserver-v0.10.1-aarch64-apple-darwin.tar.gz) | 14.4 MiB | `native/darwin/arm64` |
+| [loreserver-v0.10.1-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.1/loreserver-v0.10.1-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz) | 13.4 MiB | `native/linux/arm64/glibc` |
+| [loreserver-v0.10.1-x86_64-pc-windows-msvc.zip](https://github.com/EpicGames/lore/releases/download/v0.10.1/loreserver-v0.10.1-x86_64-pc-windows-msvc.zip) | 14.5 MiB | `native/win/x64` |
+| [loreserver-v0.10.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/EpicGames/lore/releases/download/v0.10.1/loreserver-v0.10.1-x86_64-unknown-linux-gnu.tar.gz) | 15.6 MiB | `native/linux/x64/glibc` |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ lore 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T07:38:31Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T08:04:18Z._
