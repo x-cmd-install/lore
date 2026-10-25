@@ -14,11 +14,11 @@ x install lore
 
 ## Code insight
 
-Total: **558,712** lines of code across **1676** files in the top 5 languages.
+Total: **559,446** lines of code across **1677** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 476,389 | 16,244 | 51,993 | 1445 |
+| Rust | 477,112 | 16,245 | 52,060 | 1446 |
 | Python | 61,837 | 5,179 | 13,305 | 140 |
 | CHeader | 4,278 | 8,633 | 907 | 3 |
 | C | 4,129 | 607 | 429 | 4 |
@@ -33,27 +33,27 @@ Total: **558,712** lines of code across **1676** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.11.0` (2026-10-22)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-24
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 9,005 · **Forks**: 466 · **Open issues**: 135 · **Contributors**: 31
+- **Stars**: 9,017 · **Forks**: 468 · **Open issues**: 135 · **Contributors**: 31
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 0 · **Open PRs**: 37 · **Closed issues**: 50 · **Open issues**: 85 · **Commits**: 866
+- **Releases**: 8 · **Merged PRs**: 0 · **Open PRs**: 37 · **Closed issues**: 50 · **Open issues**: 85 · **Commits**: 869
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 2 | 0 | 4 | 1 | 17 | 241 |
-| last60d | 2026-08-25 | 4 | 0 | 15 | 4 | 41 | 486 |
-| 90d | 2026-07-26 | 5 | 0 | 19 | 8 | 47 | 668 |
-| last180d | 2026-04-27 | 8 | 0 | 37 | 50 | 85 | 865 |
-| 360d | 2025-10-29 | 8 | 0 | 37 | 50 | 85 | 865 |
-| last720d | 2024-11-03 | 8 | 0 | 37 | 50 | 85 | 866 |
+| 30d | 2026-09-25 | 2 | 0 | 4 | 1 | 17 | 193 |
+| last60d | 2026-08-26 | 4 | 0 | 15 | 3 | 41 | 426 |
+| 90d | 2026-07-27 | 5 | 0 | 19 | 7 | 47 | 635 |
+| last180d | 2026-04-28 | 8 | 0 | 37 | 50 | 85 | 868 |
+| 360d | 2025-10-30 | 8 | 0 | 37 | 50 | 85 | 868 |
+| last720d | 2024-11-04 | 8 | 0 | 37 | 50 | 85 | 869 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for lore lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T06:22:55Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T06:43:29Z._
