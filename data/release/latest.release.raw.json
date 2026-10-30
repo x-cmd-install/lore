@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14109425,
       "digest": "sha256:e688f30f2dca6cf72b4da6f8b1f3d0f7ecafdfe374413ee501e344f6ebfd802f",
-      "download_count": 7,
+      "download_count": 16,
       "created_at": "2026-10-26T16:03:42Z",
       "updated_at": "2026-10-26T16:03:44Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/liblore-v0.12.0-aarch64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14152492,
       "digest": "sha256:d0921954c827cbcc48d26e8436cf664582bb99f73e4db44e9f19276010394e43",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-26T16:03:54Z",
       "updated_at": "2026-10-26T16:03:55Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/liblore-v0.12.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 14827369,
       "digest": "sha256:b0072a5dced01f518762c86fba1f5459393d1f713867353065d5cf92d2d2a108",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-26T16:03:55Z",
       "updated_at": "2026-10-26T16:03:57Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/liblore-v0.12.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 94501212,
       "digest": "sha256:bfde1c58795a223bdbca88136276de71bd0143be278569f933b02f4d5bf60405",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-26T16:03:57Z",
       "updated_at": "2026-10-26T16:04:01Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/liblore-v0.12.0-x86_64-pc-windows-msvc-debug.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 14849213,
       "digest": "sha256:0b9f00ec2d118969e6cb6acdc58dce5c246d3b8b16bdfc84797bf2f51c1e7a13",
-      "download_count": 10,
+      "download_count": 14,
       "created_at": "2026-10-26T16:04:02Z",
       "updated_at": "2026-10-26T16:04:03Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/liblore-v0.12.0-x86_64-pc-windows-msvc.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 99963041,
       "digest": "sha256:4c15988dfe9be5d03617cab0198419ef89a5121c8cf2d8fd85d79837b73f45c3",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-26T16:04:04Z",
       "updated_at": "2026-10-26T16:04:07Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/liblore-v0.12.0-x86_64-unknown-linux-gnu-debug.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 16166673,
       "digest": "sha256:6f5ef04bd85428eaefe67e95ae7a00c4accdeb3fcda55c4b58a6663a692301ab",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-10-26T16:04:08Z",
       "updated_at": "2026-10-26T16:04:09Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/liblore-v0.12.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 15485591,
       "digest": "sha256:4d03c26fdf617ef36218d7dcc485c2d765b0694584acf78d39696e2c546480e7",
-      "download_count": 26,
+      "download_count": 42,
       "created_at": "2026-10-26T16:04:15Z",
       "updated_at": "2026-10-26T16:04:16Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/lore-v0.12.0-aarch64-apple-darwin.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 15612510,
       "digest": "sha256:4f095f2fd880a7530a215977669c06b41dc367f85b82712102cde04bfdb471d6",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-10-26T16:04:25Z",
       "updated_at": "2026-10-26T16:04:26Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/lore-v0.12.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 16277629,
       "digest": "sha256:306717855dcf04318477a53c6d105e1ce1c90faf17962261f2db6faf5f41a10d",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-10-26T16:04:26Z",
       "updated_at": "2026-10-26T16:04:27Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/lore-v0.12.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 14778368,
       "digest": "sha256:310b64f8075f8c956cb9a4d0df0f706bb4b0cedb49c38b85b3ed20e044273a82",
-      "download_count": 62,
+      "download_count": 71,
       "created_at": "2026-10-26T16:04:31Z",
       "updated_at": "2026-10-26T16:04:32Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/lore-v0.12.0-x86_64-pc-windows-msvc.msi"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 16302956,
       "digest": "sha256:1cad5599cc2d02d93b6fe917d7ee856194601f67d3520c26220b789e25982e52",
-      "download_count": 105,
+      "download_count": 141,
       "created_at": "2026-10-26T16:04:33Z",
       "updated_at": "2026-10-26T16:04:34Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/lore-v0.12.0-x86_64-pc-windows-msvc.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 17682848,
       "digest": "sha256:27c312c4e3ddce160bbbce7356fba5698fdecead049bf4b4c704174c3d9a8f28",
-      "download_count": 118,
+      "download_count": 225,
       "created_at": "2026-10-26T16:04:39Z",
       "updated_at": "2026-10-26T16:04:40Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/lore-v0.12.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 14394074,
       "digest": "sha256:75e2f515e4aa0d71fbfbdede839c3404d18c5761236ec44221c368dc18515f39",
-      "download_count": 11,
+      "download_count": 46,
       "created_at": "2026-10-26T16:04:46Z",
       "updated_at": "2026-10-26T16:04:47Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/loreserver-v0.12.0-aarch64-apple-darwin.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 14785323,
       "digest": "sha256:940777fc84c0959ddaa6be9a1e93fdf28eee2e009828a77048e4cc3ca783d35e",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-10-26T16:04:56Z",
       "updated_at": "2026-10-26T16:04:57Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/loreserver-v0.12.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 15893639,
       "digest": "sha256:8a6236e031af5ab8d93c820360850fff398c55dd759f9c78add444a09b6c3b60",
-      "download_count": 10,
+      "download_count": 15,
       "created_at": "2026-10-26T16:04:58Z",
       "updated_at": "2026-10-26T16:04:59Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/loreserver-v0.12.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 15735369,
       "digest": "sha256:124be4a35a0b44685d07b3e52c3725ee1a2760380fad9026b06d30083e67b9a9",
-      "download_count": 64,
+      "download_count": 82,
       "created_at": "2026-10-26T16:05:07Z",
       "updated_at": "2026-10-26T16:05:08Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/loreserver-v0.12.0-x86_64-pc-windows-msvc.zip"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 17264366,
       "digest": "sha256:9372eb024ff571063b8b783dc99281fed7d73c96e234770266736873443d773a",
-      "download_count": 29,
+      "download_count": 79,
       "created_at": "2026-10-26T16:05:13Z",
       "updated_at": "2026-10-26T16:05:14Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.12.0/loreserver-v0.12.0-x86_64-unknown-linux-gnu.tar.gz"
