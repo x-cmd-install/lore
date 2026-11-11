@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 138872814,
       "digest": "sha256:9d1676d44cd8fdfc06cdf290b37ba1cd6d72749de4bd300e0ab31b67d9ff54c4",
-      "download_count": 4,
+      "download_count": 9,
       "created_at": "2026-11-05T15:45:00Z",
       "updated_at": "2026-11-05T15:45:06Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/liblore-v0.13.0-aarch64-apple-darwin-debug.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14578796,
       "digest": "sha256:a79418fbe5936208f5525c3912319060f282b4394723fbb58eee4fd2017d3e19",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-11-05T15:45:07Z",
       "updated_at": "2026-11-05T15:45:08Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/liblore-v0.13.0-aarch64-apple-darwin.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 101500599,
       "digest": "sha256:de4849ba48dbfd487be74450f07fa124c2bbc54b88bc4503fd3f5c6a85ef88c0",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-11-05T15:45:08Z",
       "updated_at": "2026-11-05T15:45:12Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/liblore-v0.13.0-aarch64-unknown-linux-gnu-debug.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 102791139,
       "digest": "sha256:c1bc8949a1ee5b9d9b5fee66b4a1d2dbbfa99b55d6f93b2efa3884a3b2499532",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-11-05T15:45:13Z",
       "updated_at": "2026-11-05T15:45:17Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/liblore-v0.13.0-aarch64-unknown-linux-gnu-neoverse-512tvb-debug.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 14860689,
       "digest": "sha256:a14003b5c7dd420bad37efada7b6b17f94f0132bb952d4ce298940479850e2fd",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-11-05T15:45:17Z",
       "updated_at": "2026-11-05T15:45:18Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/liblore-v0.13.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15521330,
       "digest": "sha256:b94553dc7a6ac028fa65977ca108a32f8ce556e138ae1a0152a633d321f12b54",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-11-05T15:45:19Z",
       "updated_at": "2026-11-05T15:45:20Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/liblore-v0.13.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 100223903,
       "digest": "sha256:ce7078b4d1d5babc5d780a4f33a00784eda5422e425e28491770bf3de0bfdbed",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-11-05T15:45:20Z",
       "updated_at": "2026-11-05T15:45:23Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/liblore-v0.13.0-x86_64-pc-windows-msvc-debug.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 15715203,
       "digest": "sha256:7e3f5c5e924f851a84215f4149bd2154b496c24c5cd8c45ae06e2f20b85e5394",
-      "download_count": 34,
+      "download_count": 62,
       "created_at": "2026-11-05T15:45:24Z",
       "updated_at": "2026-11-05T15:45:25Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/liblore-v0.13.0-x86_64-pc-windows-msvc.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 106560501,
       "digest": "sha256:562d6f2229a27e9beb8467f0edda45f3eaed9fb21215ceea29e4069ff6ddc0ed",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-11-05T15:45:25Z",
       "updated_at": "2026-11-05T15:45:29Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/liblore-v0.13.0-x86_64-unknown-linux-gnu-debug.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 16707958,
       "digest": "sha256:db93e4cef6f1dba73247a8cd3f9289cc1a3b9f7ddff0fbce9d24f50440263de6",
-      "download_count": 11,
+      "download_count": 14,
       "created_at": "2026-11-05T15:45:29Z",
       "updated_at": "2026-11-05T15:45:30Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/liblore-v0.13.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 154269657,
       "digest": "sha256:9e47ed1ca54e4b840b895871dcd261cc5c7e62443225068343c64d9605ff5f01",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-11-05T15:45:31Z",
       "updated_at": "2026-11-05T15:45:35Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/lore-v0.13.0-aarch64-apple-darwin-debug.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 15926448,
       "digest": "sha256:e0fd7d4e9465618dfcbff23b21dbabcc07759fe8c5771a617f68fdd952b4c381",
-      "download_count": 23,
+      "download_count": 40,
       "created_at": "2026-11-05T15:45:36Z",
       "updated_at": "2026-11-05T15:45:37Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/lore-v0.13.0-aarch64-apple-darwin.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 112859080,
       "digest": "sha256:7efeb1a53cc983f8dda8a00db2b34bce49305041168e0db53488722953feaf20",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-05T15:45:37Z",
       "updated_at": "2026-11-05T15:45:41Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/lore-v0.13.0-aarch64-unknown-linux-gnu-debug.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 114454860,
       "digest": "sha256:0c6073693f5ac9736a3bfb96031f5fe8c2511bb026528e44617e2a96a42b4128",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-05T15:45:42Z",
       "updated_at": "2026-11-05T15:45:46Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/lore-v0.13.0-aarch64-unknown-linux-gnu-neoverse-512tvb-debug.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 16216181,
       "digest": "sha256:30d67b5ab8edd3d0c06f66326627632a44a9b85584569f7d3ab1b3cfd4e247b1",
-      "download_count": 10,
+      "download_count": 12,
       "created_at": "2026-11-05T15:45:47Z",
       "updated_at": "2026-11-05T15:45:48Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/lore-v0.13.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 16913629,
       "digest": "sha256:7cd53cc8f5cdf582ec5cd5e9037c358b9bb643e1ad0fdde21f3e9ae5fcd1166d",
-      "download_count": 14,
+      "download_count": 17,
       "created_at": "2026-11-05T15:45:49Z",
       "updated_at": "2026-11-05T15:45:50Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/lore-v0.13.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 110846417,
       "digest": "sha256:1cceda33389f64e63698b20a0307c2e5550a8b41d7fd66c197a9eab16b96c63f",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-05T15:45:50Z",
       "updated_at": "2026-11-05T15:45:54Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/lore-v0.13.0-x86_64-pc-windows-msvc-debug.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 15491072,
       "digest": "sha256:26c575425659c99cd60ebdd9cf0c20770661182a8e4e3f31e312520220cd3629",
-      "download_count": 45,
+      "download_count": 67,
       "created_at": "2026-11-05T15:45:55Z",
       "updated_at": "2026-11-05T15:45:56Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/lore-v0.13.0-x86_64-pc-windows-msvc.msi"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 17165476,
       "digest": "sha256:26b84459fd6ab2faa10d5f8eb8393848286935414210d7070dafffd97e4c1343",
-      "download_count": 182,
+      "download_count": 304,
       "created_at": "2026-11-05T15:45:57Z",
       "updated_at": "2026-11-05T15:45:58Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/lore-v0.13.0-x86_64-pc-windows-msvc.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 118585443,
       "digest": "sha256:43401f433c43cdbd4fe523fd3f52003df0303d032068963e4c471dc70ae4973b",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-05T15:45:58Z",
       "updated_at": "2026-11-05T15:46:03Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/lore-v0.13.0-x86_64-unknown-linux-gnu-debug.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 18246567,
       "digest": "sha256:839a88c279794c8e31b1e79155408791b1bf26d17fb6e6b998bc5cda4291c12f",
-      "download_count": 206,
+      "download_count": 322,
       "created_at": "2026-11-05T15:46:03Z",
       "updated_at": "2026-11-05T15:46:04Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/lore-v0.13.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 144330264,
       "digest": "sha256:aa75d8c5c35ee8dc77ae98ee4c27445baadcb5eeebf75d0c50d065eba0865c77",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-05T15:46:05Z",
       "updated_at": "2026-11-05T15:46:09Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/loreserver-v0.13.0-aarch64-apple-darwin-debug.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 14624939,
       "digest": "sha256:295541eac26857a3b207e8e5756643cc4cb99eb7b0c950ba098957349b7ddb3e",
-      "download_count": 19,
+      "download_count": 32,
       "created_at": "2026-11-05T15:46:09Z",
       "updated_at": "2026-11-05T15:46:10Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/loreserver-v0.13.0-aarch64-apple-darwin.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 108185003,
       "digest": "sha256:d09aee18aaddf91f1ca844ff2de4943bf9a14d8a6d5bb66d68396b45bf09b34f",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-05T15:46:11Z",
       "updated_at": "2026-11-05T15:46:14Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/loreserver-v0.13.0-aarch64-unknown-linux-gnu-debug.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 109233827,
       "digest": "sha256:cf3323d0558d6d01a9e8dfd3cf809535bb1afad59d006e5a8307bd8fb58925bf",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-11-05T15:46:15Z",
       "updated_at": "2026-11-05T15:46:19Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/loreserver-v0.13.0-aarch64-unknown-linux-gnu-neoverse-512tvb-debug.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 15089185,
       "digest": "sha256:154edeac9c41d23d7f39aba03d93f0b3ae9e7dcf74fa442d76444a7d2da72d90",
-      "download_count": 13,
+      "download_count": 16,
       "created_at": "2026-11-05T15:46:20Z",
       "updated_at": "2026-11-05T15:46:21Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/loreserver-v0.13.0-aarch64-unknown-linux-gnu-neoverse-512tvb.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 16256894,
       "digest": "sha256:2eef31cb31cbfd85e3bd00787232f7eab074e7e40b0efacb5a9f9fc778ef2c51",
-      "download_count": 17,
+      "download_count": 21,
       "created_at": "2026-11-05T15:46:21Z",
       "updated_at": "2026-11-05T15:46:22Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/loreserver-v0.13.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 102784652,
       "digest": "sha256:8072e8605b101db7c6b9b59b1a8d8333024f1168e9cb1c3efa6f4a37f765d5f4",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-05T15:46:23Z",
       "updated_at": "2026-11-05T15:46:27Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/loreserver-v0.13.0-x86_64-pc-windows-msvc-debug.zip"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 16358130,
       "digest": "sha256:71b2c6cb0e3b37338fdb6f529539544c8f0c12d80da18d43cdd355f2225366b5",
-      "download_count": 105,
+      "download_count": 170,
       "created_at": "2026-11-05T15:46:28Z",
       "updated_at": "2026-11-05T15:46:29Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/loreserver-v0.13.0-x86_64-pc-windows-msvc.zip"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 117901977,
       "digest": "sha256:ab2d51b01f3a999085e267259f598f92b31d9eee92ee63ab51fc2e1dcd1de768",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-05T15:46:29Z",
       "updated_at": "2026-11-05T15:46:34Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/loreserver-v0.13.0-x86_64-unknown-linux-gnu-debug.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 17613785,
       "digest": "sha256:c9b212c0216a8d972850f117378ce4be1843679ee75b781973284afe1a3e5b98",
-      "download_count": 166,
+      "download_count": 222,
       "created_at": "2026-11-05T15:46:34Z",
       "updated_at": "2026-11-05T15:46:35Z",
       "browser_download_url": "https://github.com/EpicGames/lore/releases/download/v0.13.0/loreserver-v0.13.0-x86_64-unknown-linux-gnu.tar.gz"
