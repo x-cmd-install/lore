@@ -1,0 +1,208 @@
+about:
+  description: "Lore is a next-generation, open source version control system"
+  license: MIT
+  homepage: https://lore.org
+  head: 4f7e63f
+  archived: false
+  latestVersion: "v0.14.0"
+  latestRelease: "v0.14.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T09:32:42Z
+timeline:
+  created: 2026-05-21
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-17
+  lastRelease: 2026-11-17
+  lastPrerelease: 
+popularity:
+  star: 9212
+  watcher: 43
+  fork: 504
+  release: 11
+  contributor: 36
+  pullRequest: 137
+  issue: 155
+language:
+  Rust: 42003713
+  Python: 4321435
+  C: 860099
+  Shell: 167069
+  HCL: 45025
+  JavaScript: 37619
+  Go Template: 36298
+  PowerShell: 13018
+  Dockerfile: 3302
+  Handlebars: 403
+totalBytes: 47487981
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 2
+    mergedPR: 0
+    openPR: 9
+    closedIssue: 1
+    openIssue: 14
+    commit: 417
+  last60d:
+    since: 2026-09-29
+    release: 5
+    mergedPR: 0
+    openPR: 13
+    closedIssue: 4
+    openIssue: 34
+    commit: 649
+  last90d:
+    since: 2026-08-30
+    release: 7
+    mergedPR: 0
+    openPR: 21
+    closedIssue: 6
+    openIssue: 58
+    commit: 894
+  last180d:
+    since: 2026-06-01
+    release: 11
+    mergedPR: 0
+    openPR: 44
+    closedIssue: 53
+    openIssue: 102
+    commit: 1302
+  last360d:
+    since: 2025-12-03
+    release: 11
+    mergedPR: 0
+    openPR: 44
+    closedIssue: 53
+    openIssue: 102
+    commit: 1313
+  last720d:
+    since: 2024-12-08
+    release: 11
+    mergedPR: 0
+    openPR: 44
+    closedIssue: 53
+    openIssue: 102
+    commit: 1316
+total:
+  release: 11
+  mergedPR: 0
+  openPR: 44
+  closedIssue: 53
+  openIssue: 102
+  commit: 1316
+---
+path: /home/runner/.x-repo/github.com/EpicGames/lore
+collectedAt: 2026-11-28T09:32:51Z
+loc:
+  Rust:
+    code: 930939
+    comments: 21424
+    blanks: 87197
+    files: 2144
+  Python:
+    code: 89795
+    comments: 5725
+    blanks: 17846
+    files: 189
+  C:
+    code: 6251
+    comments: 1216
+    blanks: 576
+    files: 4
+  CHeader:
+    code: 4828
+    comments: 10134
+    blanks: 997
+    files: 3
+  Yaml:
+    code: 3532
+    comments: 862
+    blanks: 200
+    files: 92
+  Toml:
+    code: 3246
+    comments: 969
+    blanks: 502
+    files: 61
+  Protobuf:
+    code: 2426
+    comments: 4346
+    blanks: 871
+    files: 37
+  Sh:
+    code: 2385
+    comments: 684
+    blanks: 282
+    files: 31
+  Json:
+    code: 1050
+    comments: 0
+    blanks: 0
+    files: 9
+  Hcl:
+    code: 1013
+    comments: 143
+    blanks: 222
+    files: 10
+  Pan:
+    code: 914
+    comments: 13
+    blanks: 42
+    files: 2
+  JavaScript:
+    code: 706
+    comments: 98
+    blanks: 74
+    files: 3
+  Css:
+    code: 476
+    comments: 113
+    blanks: 65
+    files: 1
+  Bash:
+    code: 387
+    comments: 147
+    blanks: 47
+    files: 1
+  PowerShell:
+    code: 220
+    comments: 47
+    blanks: 22
+    files: 1
+  Dockerfile:
+    code: 60
+    comments: 9
+    blanks: 22
+    files: 3
+  Svg:
+    code: 32
+    comments: 0
+    blanks: 0
+    files: 6
+  Handlebars:
+    code: 10
+    comments: 1
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 33908
+    blanks: 11275
+    files: 397
+  Text:
+    code: 0
+    comments: 273
+    blanks: 46
+    files: 2
+total:
+  code: 1049765
+  comments: 183814
+  blanks: 129301
+  files: 2997
+---
+
+---
+  - LICENSE.txt
+  - liblore.so
+  - lore.h
+  - THIRD-PARTY-NOTICES.txt
